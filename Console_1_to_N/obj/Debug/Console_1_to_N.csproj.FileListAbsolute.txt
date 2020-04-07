@@ -1,0 +1,7 @@
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\bin\Debug\Console_1_to_N.exe.config
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\bin\Debug\Console_1_to_N.exe
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\bin\Debug\Console_1_to_N.pdb
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\obj\Debug\Console_1_to_N.csprojAssemblyReference.cache
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\obj\Debug\Console_1_to_N.csproj.CoreCompileInputs.cache
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\obj\Debug\Console_1_to_N.exe
+C:\Users\Vallior\Source\repos\Console_1_to_N\Console_1_to_N\obj\Debug\Console_1_to_N.pdb
